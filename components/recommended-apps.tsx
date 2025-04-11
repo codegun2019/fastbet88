@@ -29,7 +29,7 @@ function AppItem({ icon, name, category, rating, size }: AppItemProps) {
           <span>{size}</span>
         </div>
       </div>
-      <a href="https://reelsurl.com/WK888FREE">
+      <a href="https://rls.my/fzcwe">
       <div className="flex-shrink-0">
         <button className="text-sm font-medium text-blue-600">{t("common.install")}</button>
       </div>

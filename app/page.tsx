@@ -80,12 +80,12 @@ export default function AppStoreListing() {
               <span className="text-xs text-gray-600">{t("downloadBanner.subtitle")}</span>
             </div>
           </div>
-          <a href="http://reelsurl.com/WK888P"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
+          <a href="https://rls.my/6u29o"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
         </div>
       </div>
       {/* Header */}
       <header className="flex items-center justify-between p-4 top-[64px] bg-white z-10">
-      <a href="https://reelsurl.com/WK888FREE">
+      <a href="https://rls.my/fzcwe">
         <button className="p-2">
           <ArrowLeft className="h-6 w-6" />
         </button>
@@ -142,7 +142,7 @@ export default function AppStoreListing() {
         </div>
 
         {/* Action Buttons */}
-        <a href="https://reelsurl.com/WK888FREE">
+        <a href="https://rls.my/fzcwe">
         <div className="flex gap-4 my-6">
           {/* <Button variant="outline" className="flex-1 rounded-full h-12">
             {t("common.uninstall")}
@@ -223,21 +223,21 @@ export default function AppStoreListing() {
       {/* Navigation Footer x */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t">
         <nav className="flex justify-around items-center h-16 max-w-lg mx-auto px-4">
-          <a href="https://reelsurl.com/WK888FREE" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/fzcwe" className="flex flex-col items-center gap-1">
             <GamepadIcon className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.games")}</span>
           </a>
-          <a href="https://reelsurl.com/WK888FREE" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/fzcwe" className="flex flex-col items-center gap-1">
             <Grid className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.apps")}</span>
           </a>
-          <a href="https://reelsurl.com/WK888FREE" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/fzcwe" className="flex flex-col items-center gap-1">
             <div className="p-2 rounded-full bg-blue-50">
               <Search className="h-6 w-6 text-blue-600" />
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="https://reelsurl.com/WK888FREE" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/fzcwe" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
